@@ -1,6 +1,4 @@
-<h1 align="center"> template-discord.js-v14</h1>
- 
- ### jangan lupa isi token, id guild dan id client
+### jangan lupa isi token, id guild dan id client
  ```
  {
     "token": "",
